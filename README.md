@@ -38,17 +38,6 @@ The detailed software description delves into specific software components, algo
 3. Install dependencies from `req.txt`:
     ```pip install -r req.txt```
 
-4. Run the Streamlit app:
-    ```streamlit run main.py```
-
-### Running without Virtual Environment
-
-1. Install dependencies globally or in a virtual environment:
-    ```pip install -r req.txt```
-
-2. Run the Streamlit app:
-    ```streamlit run main.py```
-
 ## Input (Required Files)
 
 - Disclosure Document: Contains detailed information about the invention.
