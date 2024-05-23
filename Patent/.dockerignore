@@ -1,0 +1,10 @@
+.venv
+.env
+.env.example
+venv
+__pycache__
+Patent_Files
+temp
+Testing_Of_JSON
+app.log
+testdesc.py

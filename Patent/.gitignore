@@ -1,0 +1,15 @@
+# Files
+.env
+*.docx
+app.log
+testdesc.py
+
+# Folders
+.idea
+.venv
+__pycache__
+Testing_Of_JSON
+temp
+Patent_Files
+Output
+Misc
